@@ -22,3 +22,15 @@
 <code>$ pip install -r requirements.txt</code>  <br>
 5. Now start the localhost server<br>
 <code>$ python manage.py runserver</code> <br>
+
+# create your own portfolio
+ if you want to create a own profile then just edit data.json file and wrtie your own skills.
+
+# Homapage
+ ![Screenshot (20)](https://user-images.githubusercontent.com/61510754/125197901-3bfa9780-e27d-11eb-9ab6-cd0602888aa9.png)
+
+# Languages
+ ![Screenshot (22)](https://user-images.githubusercontent.com/61510754/125197970-7f550600-e27d-11eb-8e2b-239fa9a00f7d.png)
+
+# Project
+ ![Screenshot (23)](https://user-images.githubusercontent.com/61510754/125198019-c5aa6500-e27d-11eb-9d39-af6dea7aeafc.png)
