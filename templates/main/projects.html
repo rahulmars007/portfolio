@@ -1,0 +1,37 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+
+    {% include 'main/nav.html' %}
+
+    <div class="container">
+        <h1 class="center-align">Projects</h1>
+        <div class="row ">
+            <div class="col s12 mm6">
+                <ul class="collapsible">
+                  {% for name, about in projects %}
+                      <li>
+                        <div class="collapsible-header">
+                          {{ name }}
+                        </div>
+                        <div class="collapsible-body">
+                          <span>{{ about }}</span>
+                        </div>
+                      </li>
+                   {% endfor %}
+                  </ul>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
+
+{% block script %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.collapsible');
+    var instances = M.Collapsible.init(elems);
+  });
+</script>
+
+{% endblock %}

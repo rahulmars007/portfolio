@@ -1,0 +1,18 @@
+{
+    "NAME" :"Rahul Prajapati",
+    "ABOUT_ME": "Hi,I am a passionate coding enthusiast, who loves to code and build different algorithms and programs. I also want to enhance my skills by learning Data Science and Machine Learning as it is my keen interest to implement my programming skills for Data which helps me for a suitable career growth and enjoy my work as well.",
+    "LANGUAGES": ["Python","C basic","Django","Html","CSS"],
+    "PROJECTS": [
+        ["Wordcount","I have created a web app to count each word of any Paragraph Using django. and also count how many times word iterate."],
+        ["Emojifier","I have created a emojifier web app which convert your text into emoji.This web app is created in django framework and using machine learning algorithm."],
+        ["Url_Shortner","I have created a url shortener web app which convert your url into your desired keywords.This web app is created in Flask framework."],
+        ["Stick Mind","It's A Two Player Game. In This Game We have 21 Sticks. Each Players can chose between 1-4 Sticks at a Time. Player Picking up the last Stick will loss As per game rules!"],
+        ["Facial Recognition Attendance System","I have created a system that can recognize face and match their own database and make attendance. This will make the attendance system more authentic."],
+        ["Separate Your Photo from group photo","I have created a system that separates your photos from groups of photos like parties and picnics. Such as iOS and Android keep your photos separated in the gallery."],
+        ["Portfolio","Personal portfolio website made with Django framework in the backend, and with materialize css and html for the frontend. It is a dynamic site so that you can control the content of the site through the data.json file very easily."]
+        
+    ]
+
+}
+
+
